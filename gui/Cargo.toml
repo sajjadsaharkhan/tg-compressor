@@ -1,0 +1,9 @@
+[package]
+name = "tg-compress"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+eframe = { version = "0.37.0", features = ["persistence"] }
+rfd = "0.18.0"
+serde = { version = "1.0.229", features = ["derive"] }

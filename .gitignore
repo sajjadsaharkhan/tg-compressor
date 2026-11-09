@@ -1,0 +1,6 @@
+.DS_Store
+/gui/target/
+
+# Local test media
+*.mov
+*.mp4
